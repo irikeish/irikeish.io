@@ -1,0 +1,10 @@
+version: "3.0"
+
+services:
+  irikeish:
+    build: .
+    ports:
+      - "80:3000"
+    command: ["npm", "run", "start"]
+    volumes:
+      - ./:/usr/src/app
