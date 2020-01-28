@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/irikeish.io/static/css/main.a83e5236.chunk.css",
+    "main.js": "/irikeish.io/static/js/main.89cd7e5c.chunk.js",
+    "main.js.map": "/irikeish.io/static/js/main.89cd7e5c.chunk.js.map",
+    "runtime-main.js": "/irikeish.io/static/js/runtime-main.81ae820c.js",
+    "runtime-main.js.map": "/irikeish.io/static/js/runtime-main.81ae820c.js.map",
+    "static/js/2.84c2f952.chunk.js": "/irikeish.io/static/js/2.84c2f952.chunk.js",
+    "static/js/2.84c2f952.chunk.js.map": "/irikeish.io/static/js/2.84c2f952.chunk.js.map",
+    "index.html": "/irikeish.io/index.html",
+    "precache-manifest.5aaf746ae93bcadbda6462b77c6583e3.js": "/irikeish.io/precache-manifest.5aaf746ae93bcadbda6462b77c6583e3.js",
+    "service-worker.js": "/irikeish.io/service-worker.js",
+    "static/css/main.a83e5236.chunk.css.map": "/irikeish.io/static/css/main.a83e5236.chunk.css.map",
+    "static/js/2.84c2f952.chunk.js.LICENSE": "/irikeish.io/static/js/2.84c2f952.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81ae820c.js",
+    "static/js/2.84c2f952.chunk.js",
+    "static/css/main.a83e5236.chunk.css",
+    "static/js/main.89cd7e5c.chunk.js"
+  ]
+}
