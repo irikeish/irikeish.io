@@ -5,9 +5,106 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: white;
+
+  background: rgb(43,39,39);
+  background: linear-gradient(90deg, rgba(43,39,39,1) 2%, rgba(9,9,121,1) 88%, rgba(9,9,121,1) 100%, rgba(0,212,255,1) 100%);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+#root {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.profile-wrapper{
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+
+.social-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+
+.social-icon{
+  height: 48px;
+  width: 48px;
+}
+
+.mr8{
+  margin-right: 8px;
+}
+.ml8{
+  margin-left: 8px;
+}
+
+.mt8{
+  margin-top: 8px;
+}
+.mb8{
+  margin-bottom: 8px;
+}
+
+
+.fsb{
+  font-weight: 900;
+}
+
+.pr8{
+  padding-right: 8px;
+}
+.pl8{
+  padding-left: 8px;
+}
+
+.pt8{
+  padding-top: 8px;
+}
+.pb8{
+  padding-bottom: 8px;
+}
+
+.white{
+  color: white;
+}
+
+.bg-white{
+  background-color: white;
+}
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltip-text {
+  visibility: hidden;
+  width: 120px;
+  background-color: transparent;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 4px 0;
+  position: absolute;
+  z-index: 1;
+  left:-16px;
+  bottom: -24px;
+}
+
+.tooltip:hover .tooltip-text {
+  visibility: visible;
 }

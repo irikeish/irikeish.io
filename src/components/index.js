@@ -1,6 +1,7 @@
 import React from "react";
+import Profile from "./profile";
 
 export default (props)=>{
 
-    return (<div>look like you lost somewhere, try other things</div>)
+    return (<Profile />)
 }
