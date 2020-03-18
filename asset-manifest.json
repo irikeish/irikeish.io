@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b99185b.chunk.css",
-    "main.js": "/static/js/main.c947d99d.chunk.js",
-    "main.js.map": "/static/js/main.c947d99d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.528f2a8b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.528f2a8b.js.map",
-    "static/js/2.317c154a.chunk.js": "/static/js/2.317c154a.chunk.js",
-    "static/js/2.317c154a.chunk.js.map": "/static/js/2.317c154a.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b9555bb3042d72f734e4272ca609d0c3.js": "/precache-manifest.b9555bb3042d72f734e4272ca609d0c3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3b99185b.chunk.css.map": "/static/css/main.3b99185b.chunk.css.map",
-    "static/js/2.317c154a.chunk.js.LICENSE": "/static/js/2.317c154a.chunk.js.LICENSE",
-    "static/media/github.svg": "/static/media/github.c7978d43.svg",
-    "static/media/linkedin.svg": "/static/media/linkedin.0b000652.svg",
-    "static/media/resume .pdf": "/static/media/resume .2d4278a4.pdf",
-    "static/media/resume.svg": "/static/media/resume.d0ad346c.svg",
-    "static/media/twitter.svg": "/static/media/twitter.7137286d.svg"
+    "main.css": "/irikeish.io/static/css/main.3b99185b.chunk.css",
+    "main.js": "/irikeish.io/static/js/main.bd6d4ce8.chunk.js",
+    "main.js.map": "/irikeish.io/static/js/main.bd6d4ce8.chunk.js.map",
+    "runtime-main.js": "/irikeish.io/static/js/runtime-main.81ae820c.js",
+    "runtime-main.js.map": "/irikeish.io/static/js/runtime-main.81ae820c.js.map",
+    "static/js/2.317c154a.chunk.js": "/irikeish.io/static/js/2.317c154a.chunk.js",
+    "static/js/2.317c154a.chunk.js.map": "/irikeish.io/static/js/2.317c154a.chunk.js.map",
+    "index.html": "/irikeish.io/index.html",
+    "precache-manifest.d4f820fc82cad4e06846d7d1a7918748.js": "/irikeish.io/precache-manifest.d4f820fc82cad4e06846d7d1a7918748.js",
+    "service-worker.js": "/irikeish.io/service-worker.js",
+    "static/css/main.3b99185b.chunk.css.map": "/irikeish.io/static/css/main.3b99185b.chunk.css.map",
+    "static/js/2.317c154a.chunk.js.LICENSE": "/irikeish.io/static/js/2.317c154a.chunk.js.LICENSE",
+    "static/media/github.svg": "/irikeish.io/static/media/github.c7978d43.svg",
+    "static/media/linkedin.svg": "/irikeish.io/static/media/linkedin.0b000652.svg",
+    "static/media/resume .pdf": "/irikeish.io/static/media/resume .2d4278a4.pdf",
+    "static/media/resume.svg": "/irikeish.io/static/media/resume.d0ad346c.svg",
+    "static/media/twitter.svg": "/irikeish.io/static/media/twitter.7137286d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.528f2a8b.js",
+    "static/js/runtime-main.81ae820c.js",
     "static/js/2.317c154a.chunk.js",
     "static/css/main.3b99185b.chunk.css",
-    "static/js/main.c947d99d.chunk.js"
+    "static/js/main.bd6d4ce8.chunk.js"
   ]
 }
