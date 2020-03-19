@@ -2,7 +2,7 @@ import React from "react";
 import resume from "../../assets/image/resume.svg";
 import git from "../../assets/image/github.svg";
 import linkedin from "../../assets/image/linkedin.svg";
-import resume_pdf from "../../assets/resume .pdf";
+import resume_pdf from "../../assets/resume.pdf";
 import twitter from "../../assets/image/twitter.svg";
 import email from "../../assets/image/email.svg";
 
@@ -14,7 +14,7 @@ const SOCIALS = [
     },
     {
         ico:email,
-        label:email,
+        label:"Mail",
         link:"mailto:kumar.atish.br@gmail.com"
     },
     {
