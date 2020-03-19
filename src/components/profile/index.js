@@ -4,12 +4,18 @@ import git from "../../assets/image/github.svg";
 import linkedin from "../../assets/image/linkedin.svg";
 import resume_pdf from "../../assets/resume .pdf";
 import twitter from "../../assets/image/twitter.svg";
+import email from "../../assets/image/email.svg";
 
 const SOCIALS = [
     {
         ico:resume,
         label:"Resume",
         link:resume_pdf
+    },
+    {
+        ico:email,
+        label:email,
+        link:"mailto:kumar.atish.br@gmail.com"
     },
     {
         ico:git,
@@ -44,7 +50,7 @@ export default class Profile extends React.Component{
                     SOCIALS.map(social=>{
                         const {ico,label,link} = social;
                         return  <div className={"pl8 pr8 pt8 pb8"} >
-                            <a  href={link} className={"tooltip"}>
+                            <a  href={link} target={"_blank"} className={"tooltip"}>
                                 <img className={"social-icon tooltip"} src={ico} alt={label}/>
                                 <span className="tooltip-text">{label}</span>
                             </a></div>;
